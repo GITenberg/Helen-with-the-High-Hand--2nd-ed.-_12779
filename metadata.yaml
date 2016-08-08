@@ -1,0 +1,33 @@
+_repo: Helen-with-the-High-Hand--2nd-ed.-_12779
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, Enoch Arnold
+    - Bennett, E. Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: "Helen with a High Hand is a short, comedic novel by Arnold Bennett,\
+  \ published in 1910. It was originally published in serial form as The Miser's Niece.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12779'
+  wikidata: Q5703476
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Staffordshire (England) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Helen with the High Hand (2nd ed.)
+url: http://www.gutenberg.org/ebooks/12779
+wikipedia:
+- https://en.wikipedia.org/wiki/Helen_with_a_High_Hand
